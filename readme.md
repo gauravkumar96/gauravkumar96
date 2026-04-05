@@ -56,7 +56,7 @@ Python | Pandas | NumPy | Statsmodels
 **Quant & ML**
 
 ```bash
-PyPortfolioOpt | Scikit-learn
+PyPortfolioOpt | Scikit-learn | Tensorflow
 ```
 
 **Data Sources**
@@ -83,8 +83,8 @@ FRED | BIS | ECB | Yahoo Finance
 
 ## 📫 Let's Connect
 
-* 🔗 LinkedIn: *(your link)*
-* 💻 GitHub: *(this profile)*
+* 🔗 Site: *(https://gauravkumar96.github.io/)*
+* 💻 LinkedIn: *(https://www.linkedin.com/in/gaurav-kumar007/)*
 
 ---
 
